@@ -1,1 +1,1 @@
-# DataScientist-s_Salary_Prediction_ML
+# DataScientist's_Salary_Prediction_ML
